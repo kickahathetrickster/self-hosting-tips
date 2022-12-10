@@ -1,0 +1,2 @@
+* Self hosting tips
+I will post what I learn here.
